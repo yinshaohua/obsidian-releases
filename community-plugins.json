@@ -27095,5 +27095,12 @@
     "author": "karx",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Digital garden pipeline: inbox scoring, LLM-powered frontmatter enrichment, and WikiLink suggestions — no terminal needed.",
     "repo": "karx/kaaroGarden"
+  },
+  {
+    "id": "uni-calendar",
+    "name": "UniCalendar",
+    "author": "yinshaohua",
+    "description": "Unified calendar view syncing events from Google Calendar, CalDAV, and ICS feeds, with Chinese lunar calendar, solar terms, and public holiday overlay.",
+    "repo": "yinshaohua/UniCalendar"
   }
 ]
